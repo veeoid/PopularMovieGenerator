@@ -1,12 +1,82 @@
-# React + Vite
+# Movie App 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite based movie search application using The Movie Database (TMDB) API.  
+Allows users to:
 
-Currently, two official plugins are available:
+- Browse Popular Movies
+- Search Movies by Name
+- Add/Remove Movies to Favorites (stored in localStorage)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Home Page
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Home](assets/home.png)
+
+## Search Page
+
+![Search](assets/search.png)
+
+## Favorites Page
+
+![Favorites](assets/favorite.png)
+
+## Features 🚀
+
+- React Functional Components with Hooks
+- API Calls using fetch
+- Search Movies
+- Manage Favorites (localStorage)
+- Responsive UI
+- Context API for global state management
+- Clean folder structure
+- Error & Loading handling
+- Environment Variable for API Key
+
+---
+
+## Tech Stack 🛠️
+
+- React JS
+- Vite
+- JavaScript (ES6+)
+- CSS
+- TMDB API
+
+---
+
+## API Used 🎥
+
+TMDB (The Movie Database) API  
+Docs → https://developer.themoviedb.org/docs/getting-started
+
+---
+
+## Getting Started ⚡
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-repo-link>
+cd <your-project-folder>
+```
+
+### 2. Install Dependencies
+
+```
+npm install
+```
+
+### 3. Setup Environment Variables
+
+```
+VITE_MOVIE_API_KEY=your_tmdb_api_key_here
+```
+
+Get your API key from → https://www.themoviedb.org/settings/api
+
+### 4. Run the Project
+
+```
+npm run dev
+```
