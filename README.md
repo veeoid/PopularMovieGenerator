@@ -12,19 +12,19 @@ Allows users to:
 ## Home Page
 
 <p align="center">
-  <img src="assets/home.png" width="600">
+  <img src="public/assets/home.png" width="600">
 </p>
 
 ## Search Page
 
 <p align="center">
-  <img src="assets/search.png" width="600">
+  <img src="public/assets/search.png" width="600">
 </p>
 
 ## Favorites Page
 
 <p align="center">
-  <img src="assets/favorites.png" width="600">
+  <img src="public/assets/favorites.png" width="600">
 </p>
 
 ## Features 🚀
