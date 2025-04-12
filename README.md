@@ -11,15 +11,15 @@ Allows users to:
 
 ## Home Page
 
-![Home](assets/home.png)
+![Home](frontend\src\assets\home.png)
 
 ## Search Page
 
-![Search](assets/search.png)
+![Search](frontend\src\assets\search.png)
 
 ## Favorites Page
 
-![Favorites](assets/favorite.png)
+![Favorites](frontend\src\assets\favorites.png)
 
 ## Features 🚀
 
