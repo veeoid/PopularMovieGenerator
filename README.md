@@ -11,15 +11,21 @@ Allows users to:
 
 ## Home Page
 
-![Home](assets/home.png)
+<p align="center">
+  <img src="assets/home.png" width="600">
+</p>
 
 ## Search Page
 
-![Search](assets/search.png)
+<p align="center">
+  <img src="assets/search.png" width="600">
+</p>
 
 ## Favorites Page
 
-![Favorites](assets/favorites.png)
+<p align="center">
+  <img src="assets/favorites.png" width="600">
+</p>
 
 ## Features 🚀
 
